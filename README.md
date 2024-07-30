@@ -3,9 +3,9 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" width="450px" align="right" />
 - 🌱 I’m currently learning **DSA,Web Development,Backend**
 
+- 💬 Ask me about **MERN**
+- 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/diya-gupta-05205025a/](https://www.linkedin.com/in/diya-gupta-05205025a/)
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **diyagupta.dg13@gmail.com**
 
