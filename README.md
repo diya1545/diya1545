@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning **DSA,Web Development,Backend**
 
 - 💬 Ask me about **MERN**
-- 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/diya-gupta-05205025a/](https://www.linkedin.com/in/diya-gupta-05205025a/)
 
 - 📫 How to reach me **diyagupta.dg13@gmail.com**
