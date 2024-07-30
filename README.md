@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diya Gupta</h1>
 <h3 align="center">Passionate Web Developer | Crafting Interactive and Responsive Websites</h3>
-
+<img src="/Downloads/Diya Gupta.jpg" />
 - 🌱 I’m currently learning **DSA,Web Development,Backend**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/diya-gupta-05205025a/](https://www.linkedin.com/in/diya-gupta-05205025a/)
