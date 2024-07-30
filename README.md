@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diya Gupta</h1>
 <h3 align="center">Passionate Web Developer | Crafting Interactive and Responsive Websites</h3>
-<img src="https://th.bing.com/th/id/R.c59cb4d6dda0d97d72600fc66821bbcd?rik=p%2bqtqo2eNb0jtA&riu=http%3a%2f%2fthestatetimes.com%2fwp-content%2fuploads%2f2018%2f02%2finfotech.jpg&ehk=FF2w7obphoNFJAmHb0IyqQuqdiAVkB1haRtebXosqj8%3d&risl=&pid=ImgRaw&r=0" alt="" width="450px" align="right" />
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="" width="450px" align="right" />
 - 🌱 I’m currently learning **DSA,Web Development,Backend**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/diya-gupta-05205025a/](https://www.linkedin.com/in/diya-gupta-05205025a/)
